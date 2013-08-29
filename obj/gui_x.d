@@ -1,0 +1,15 @@
+.\obj\gui_x.o: GUI_X.c
+.\obj\gui_x.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\obj\gui_x.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\gui_x.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\gui_x.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\gui_x.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\gui_x.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\gui_x.o: C:\Keil\ARM\Segger\emWin\Include\GUI.h
+.\obj\gui_x.o: C:\Keil\ARM\Segger\emWin\Include\GUI_ConfDefaults.h
+.\obj\gui_x.o: C:\Keil\ARM\Segger\emWin\Include\GUIConf.h
+.\obj\gui_x.o: C:\Keil\ARM\Segger\emWin\Include\GUI_Type.h
+.\obj\gui_x.o: C:\Keil\ARM\Segger\emWin\Include\LCD.h
+.\obj\gui_x.o: C:\Keil\ARM\Segger\emWin\Include\Global.h
+.\obj\gui_x.o: C:\Keil\ARM\Segger\emWin\Include\GUI_Version.h
+.\obj\gui_x.o: JOY.h

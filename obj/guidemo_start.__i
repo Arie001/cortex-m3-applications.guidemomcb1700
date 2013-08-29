@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O3 --apcs=interwork -IC:\Keil\ARM\Segger\emWin\Include 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\NXP\LPC17xx 
+-DGUI_BYTESPERPIXEL="4" -DSHOW_GUIDEMO_BITMAP -DSHOW_GUIDEMO_COLORBAR -DSHOW_GUIDEMO_CURSOR -DSHOW_GUIDEMO_GRAPH -DSHOW_GUIDEMO_SPEED -DSHOW_GUIDEMO_TRANSPARENTDIALOG -DSHOW_GUIDEMO_TREEVIEW -o ".\obj\guidemo_start.o" --depend ".\obj\guidemo_start.d" "C:\Keil\ARM\Segger\emWin\Sample\Application\GUIDemo\GUIDEMO_Start.c"

@@ -1,0 +1,5 @@
+This is a emWin Graphic Library Demo for the Keil MCB1700 Evaluation Board.
+
+Targets:
+  MCB1700:        MCB1700 Board	
+  MCB1700 LCD_LG: MCB1700 Board with newer LCD (Ampire 240320LG)

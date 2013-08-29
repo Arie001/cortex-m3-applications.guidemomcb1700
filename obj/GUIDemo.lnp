@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\obj\startup_lpc17xx.o" ".\obj\system_lpc17xx.o" ".\obj\lcdconf.o" ".\obj\lcd_x_spi_lpc1700.o" ".\obj\joy.o" ".\obj\guiconf.o" ".\obj\gui_x.o" C:\Keil\ARM\Segger\emWin\Lib\GUI_CM3.lib ".\obj\main.o" ".\obj\guidemo.o" ".\obj\guidemo_bitmap.o" ".\obj\guidemo_colorbar.o" ".\obj\guidemo_conf.o" ".\obj\guidemo_cursor.o" ".\obj\guidemo_graph.o" ".\obj\guidemo_intro.o" ".\obj\guidemo_resource.o" ".\obj\guidemo_speed.o" ".\obj\guidemo_start.o" ".\obj\guidemo_transparentdialog.o" ".\obj\guidemo_treeview.o" 
+--strict --scatter ".\obj\GUIDemo.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\GUIDemo.map" -o .\obj\GUIDemo.axf

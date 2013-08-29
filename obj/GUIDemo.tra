@@ -1,0 +1,40 @@
+*** Creating Trace Output File '.\obj\GUIDemo.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_lpc17xx.o"'
+### List of Objects: adding '".\obj\system_lpc17xx.o"'
+### List of Objects: adding '".\obj\lcdconf.o"'
+### List of Objects: adding '".\obj\lcd_x_spi_lpc1700.o"'
+### List of Objects: adding '".\obj\joy.o"'
+### List of Objects: adding '".\obj\guiconf.o"'
+### List of Objects: adding '".\obj\gui_x.o"'
+### List of Objects: adding '"..\..\..\..\..\Segger\emWin\Lib\GUI_CM3.lib"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\guidemo.o"'
+### List of Objects: adding '".\obj\guidemo_bitmap.o"'
+### List of Objects: adding '".\obj\guidemo_colorbar.o"'
+### List of Objects: adding '".\obj\guidemo_conf.o"'
+### List of Objects: adding '".\obj\guidemo_cursor.o"'
+### List of Objects: adding '".\obj\guidemo_graph.o"'
+### List of Objects: adding '".\obj\guidemo_intro.o"'
+### List of Objects: adding '".\obj\guidemo_resource.o"'
+### List of Objects: adding '".\obj\guidemo_speed.o"'
+### List of Objects: adding '".\obj\guidemo_start.o"'
+### List of Objects: adding '".\obj\guidemo_transparentdialog.o"'
+### List of Objects: adding '".\obj\guidemo_treeview.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\startup_lpc17xx.o" ".\obj\system_lpc17xx.o" ".\obj\lcdconf.o" ".\obj\lcd_x_spi_lpc1700.o" ".\obj\joy.o" ".\obj\guiconf.o" ".\obj\gui_x.o" C:\Keil\ARM\Segger\emWin\Lib\GUI_CM3.lib ".\obj\main.o" ".\obj\guidemo.o" ".\obj\guidemo_bitmap.o" ".\obj\guidemo_colorbar.o" ".\obj\guidemo_conf.o" ".\obj\guidemo_cursor.o" ".\obj\guidemo_graph.o" ".\obj\guidemo_intro.o" ".\obj\guidemo_resource.o" ".\obj\guidemo_speed.o" ".\obj\guidemo_start.o" ".\obj\guidemo_transparentdialog.o" ".\obj\guidemo_treeview.o" 
+--strict --scatter ".\obj\GUIDemo.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\GUIDemo.map" -o .\obj\GUIDemo.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\GUIDemo.axf'
+### ADS-LD Command File: '.\obj\GUIDemo.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\GUIDemo.lnp', Handle=0x00000264
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\GUIDemo.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
